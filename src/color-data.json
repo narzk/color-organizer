@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "title": "ocean at dusk",
+    "color": "#00c4e2",
+    "rating": 5
+  },
+  {
+    "id": "2",
+
+    "title": "lawn",
+    "color": "#26ac56",
+    "rating": 3
+  },
+  {
+    "id": "3",
+
+    "title": "bright red",
+    "color": "#ff0000",
+    "rating": 0
+  },
+  {
+    "id": "4",
+
+    "title": "bright red",
+    "color": "#F1C6D3",
+    "rating": 0
+  },
+  {
+    "id": "5",
+
+    "title": "bright red",
+    "color": "#EB6383",
+    "rating": 0
+  },
+  {
+    "id": "6",
+
+    "title": "bright red",
+    "color": "#F7D1BA",
+    "rating": 0
+  },
+  {
+    "id": "7",
+
+    "title": "bright red",
+    "color": "#D35D6E",
+    "rating": 0
+  },
+  {
+    "id": "8",
+
+    "title": "bright red",
+    "color": "#FFE6E6",
+    "rating": 0
+  },
+  {
+    "id": "9",
+
+    "title": "bright red",
+    "color": "#FFABE1",
+    "rating": 0
+  },
+  {
+    "id": "10",
+
+    "title": "bright red",
+    "color": "#A685E2",
+    "rating": 0
+  },
+  {
+    "id": "11",
+
+    "title": "bright red",
+    "color": "#6155A6",
+    "rating": 0
+  },
+  {
+    "id": "12",
+
+    "title": "bright red",
+    "color": "#99FEFF",
+    "rating": 0
+  },
+  {
+    "id": "13",
+
+    "title": "bright red",
+    "color": "#94DAFF",
+    "rating": 0
+  },
+  {
+    "id": "14",
+
+    "title": "bright red",
+    "color": "#94B3FD",
+    "rating": 0
+  },
+  {
+    "id": "15",
+
+    "title": "bright red",
+    "color": "#B983FF",
+    "rating": 0
+  }
+]

@@ -1,0 +1,17 @@
+.container-card{
+    display: flex;
+    flex-direction: column;
+}
+.color-card{
+    height:80px;
+    width: 100%;
+    border-radius: 12px;
+    cursor: pointer;
+    padding: 10px;
+    font-size: large;
+    color:rgb(61, 59, 59);
+    line-height: 80px;
+}
+.color-title{
+
+}
